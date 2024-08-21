@@ -8636,5 +8636,5 @@ input, select, textarea {
 
 img[data-src] {
     opacity: 0;
-    transition: opacity 0.5s;
+    transition: opacity 0.1s;
 }
