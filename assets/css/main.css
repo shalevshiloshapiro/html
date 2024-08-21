@@ -8631,3 +8631,10 @@ input, select, textarea {
     height: auto;
     border-radius: 8px;
 }
+
+
+
+img[data-src] {
+    opacity: 0;
+    transition: opacity 0.5s;
+}
