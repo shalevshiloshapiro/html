@@ -8627,12 +8627,7 @@ input, select, textarea {
 }
 
 .gallery-item img {
-    width: 200px;
+    width: 450px;
     height: auto;
     border-radius: 8px;
 }
-img {
-    height: 200px; /* מקטין את הגובה של כל התמונות ל-200 פיקסלים */
-    width: auto; /* שומר על יחס הרוחב-גובה המקורי */
-}
-
