@@ -8627,7 +8627,7 @@ input, select, textarea {
 }
 
 .gallery-item img {
-    width:140px;
+    width:150px;
     height: auto;
     border-radius: 4px;
 }
