@@ -8637,5 +8637,12 @@ input, select, textarea {
     height: 500px; /* הגובה שתבחר */
 }
 
+@media (max-width: 768px) {
+    .container {
+        width: 100%;
+        padding: 10px;
+    }
+}
+```
 
 
