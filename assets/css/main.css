@@ -8633,6 +8633,10 @@ input, select, textarea {
 }
 
 
+img {
+    width: 300px;
+    height: auto;
+}
 
 img {
     width: 50%;
