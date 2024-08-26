@@ -8631,3 +8631,8 @@ input, select, textarea {
     height: auto;
     border-radius: 8px;
 }
+img {
+    height: 50%; /* מקטין את גובה התמונות ל-50% מהגובה המקורי שלהן */
+    width: auto; /* שומר על יחס הרוחב-גובה המקורי */
+}
+
