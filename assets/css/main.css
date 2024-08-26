@@ -8634,9 +8634,12 @@ input, select, textarea {
 
 .bol img {
     width: 100%;
-    height: 200px; /* הגובה שתבחר */
+    height: 1000px; /* הגובה שתבחר */
 }
 
+bol:hover {
+    transform: scale(1.05); /* תצוגת תמונה גדולה יותר כאשר העכבר עליה */
+}
 
 
 
