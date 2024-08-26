@@ -8228,7 +8228,7 @@ input, select, textarea {
 
 	}
 
-	@media screen and (max-width: 220px) {
+	@media screen and (max-width: 400px) {
 
 		.index > * {
 			-moz-flex-direction: column;
@@ -8238,7 +8238,7 @@ input, select, textarea {
 		}
 
 			.index > * > header {
-				width: 50%;
+				width: 100%;
 			}
 
 	}
@@ -8251,7 +8251,7 @@ input, select, textarea {
 
 	#wrapper {
 		background-color: inherit;
-		width: 50%;
+		width: 100%;
 		overflow-x: hidden;
 	}
 
