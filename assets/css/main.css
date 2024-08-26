@@ -8613,7 +8613,7 @@ input, select, textarea {
 }
 
 .gallery-item {
-    flex: 1 0 300px;
+    flex:250px;
     margin: 10px;
     overflow: hidden; /* כדי למנוע מהתמונות להתפשט מעבר למסגרת שלהן */
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* אפקט צל לתמונות */
@@ -8627,9 +8627,9 @@ input, select, textarea {
 }
 
 .gallery-item img {
-    width: 200px;
+    width:150px;
     height: auto;
-    border-radius: 8px;
+    border-radius: 4px;
 }
 
 .bol img {
@@ -8637,6 +8637,9 @@ input, select, textarea {
     height: 450px; /* הגובה שתבחר */
 }
 
-
+me img {
+	width:400%
+	height: auto
+}
 
 
